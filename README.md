@@ -129,10 +129,8 @@ YOUTUBE_API_KEY = "YOUR_API_KEY"
 
 ## 👤 Author
 
-Jaddu Mohan Kishore
+Manoj Maruboina
 
-GitHub: https://github.com/jaddumohankishore
+GitHub: https://github.com/Manoj1932
 
-LinkedIn: https://www.linkedin.com/in/jaddu-mohan-kishore
-
-Email:jaddumohankishore@gmail.comli
+Email:manojmaruboina1431@gmail.comli
